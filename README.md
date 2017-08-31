@@ -11,7 +11,7 @@ plugins.hotjarservicesHotjar.init(hotjarID);
 Where `hotjarID` is the ID provided in the tracking code snippet in your Hotjar account and can be found here:
 
 ```html
-<!-- Hotjar Tracking Code for www.prosoftxp.com -->
+<!-- Hotjar Tracking Code -->
 <script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
