@@ -5,5 +5,8 @@
     "icon": "http://www.malouenojales.com/blog/wp-content/uploads/2016/04/hotjar-icon.png",
     "description": "A service to initalize and setup ",
     "wikiUrl": "https://github.com/biannetta/servoy-hotjar/wiki",
-    "sourceUrl" : "https://github.com/biannetta/servoy-hotjar"
+    "sourceUrl" : "https://github.com/biannetta/servoy-hotjar",
+    "releases" : [{
+        "version":"1.0.0","url":"https://github.com/biannetta/servoy-hotjar/archive/1.0.0.zip"
+    }]    
 }
